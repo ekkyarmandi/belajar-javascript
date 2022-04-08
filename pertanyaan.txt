@@ -1,0 +1,15 @@
+bagaimana cara membuat dan memanggil fungsi dari dalam js?
+jawaban:
+fungsi dapat dideklarasikan dibawah tag script atau dengan cara menuliskannya didalam
+file JavaScript.
+
+bagaimana cara merubah nilai html berdasarkan variabel dari dalam js?
+jawaban:
+umumnya tag didalam html menyimpan nilai-nilai tertentu yang dapat diakses jika tag
+diberi nama/id.
+
+apa fungsi let dan const dalam deklarasi variabel?
+
+bagaimana cara membuat variabel array/list didalam JS?
+
+bagaimana mengoperasikan suatu variabel "is inside" dari suatu array/list?
