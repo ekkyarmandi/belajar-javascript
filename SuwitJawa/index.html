@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Suwit Jawa menggunakan JavaScript</title>
+    </head>
+    <body>
+        <h1>Suwit Jawa menggunakan JavaScript!</h1>
+        Pilih jari
+        <select name="pilihan" id="jari-pemain">
+            <option value="❓">❓</option>
+            <option value="🐘">🐘Gajah</option>
+            <option value="🐜">🐜Semut</option>
+            <option value="🧔🏻">🧔🏻Orang</option>
+        </select>
+        <button onclick=Suwit()>Suwit</button>
+        <!-- <script>
+            var s = document.getElementsByName('pilihan')[0];
+
+            s.addEventListener("change",changeOrg);
+
+            function changeOrg(){
+                var value = s.options[s.selectedIndex].value;
+                console.log(value);
+            }
+
+            //on page load
+            changeOrg();
+        </script> -->
+        <script src="suwit.js"></script>
+    </body>
+</html>
