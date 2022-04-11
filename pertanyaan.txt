@@ -5,11 +5,12 @@ file JavaScript.
 
 bagaimana cara merubah nilai html berdasarkan variabel dari dalam js?
 jawaban:
-umumnya tag didalam html menyimpan nilai-nilai tertentu yang dapat diakses jika tag
-diberi nama/id.
-
-apa fungsi let dan const dalam deklarasi variabel?
+umumnya tag didalam html menyimpan nilai-nilai tertentu yang dapat diakses menggunakan Document Object Manipulation.
 
 bagaimana cara membuat variabel array/list didalam JS?
+jawaban:
+cukup dengan menggunakan "[]" dan muat nilai kedalamnya.
+
+apa fungsi let dan const dalam deklarasi variabel?
 
 bagaimana mengoperasikan suatu variabel "is inside" dari suatu array/list?
